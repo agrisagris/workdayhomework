@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Load rates button:snapshot before press 1`] = `
+<div>
+  <div>
+    Here be dragons
+  </div>
+  <button
+    type="button"
+  >
+    Load Rates
+  </button>
+  <div>
+    {}
+  </div>
+</div>
+`;

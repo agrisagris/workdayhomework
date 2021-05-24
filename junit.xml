@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="11" failures="0" errors="0" time="1.8">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-05-24T16:57:19" time="0.857" tests="3">
+    <testcase classname=" renders todo" name=" renders todo" time="0.033">
+    </testcase>
+    <testcase classname=" Load rates button:renders" name=" Load rates button:renders" time="0.049">
+    </testcase>
+    <testcase classname=" Load rates button:snapshot before press" name=" Load rates button:snapshot before press" time="0.006">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-05-24T16:57:19" time="0.143" tests="1">
+    <testcase classname=" test load rates error" name=" test load rates error" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-05-24T16:57:20" time="0.135" tests="1">
+    <testcase classname=" test load rates sucess" name=" test load rates sucess" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-05-24T16:57:20" time="0.121" tests="6">
+    <testcase classname=" ratesReducer: check initial state" name=" ratesReducer: check initial state" time="0">
+    </testcase>
+    <testcase classname=" ratesReducer: check loading state" name=" ratesReducer: check loading state" time="0">
+    </testcase>
+    <testcase classname=" ratesReducer: check data state" name=" ratesReducer: check data state" time="0">
+    </testcase>
+    <testcase classname=" ratesReducer: check error state" name=" ratesReducer: check error state" time="0">
+    </testcase>
+    <testcase classname=" ratesReducer: check if other type affects state" name=" ratesReducer: check if other type affects state" time="0">
+    </testcase>
+    <testcase classname=" rootReducer: check initial Root State" name=" rootReducer: check initial Root State" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
